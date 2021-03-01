@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MY Tech Stack:
-Python 
-Django
-JavaScript
-React
+My Tech Stack:
+Python |
+Django |
+JavaScript |
+React |
 Bootstrap

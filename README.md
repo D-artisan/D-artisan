@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 My Tech Stack:
 Python |
+Java |
+Springoot |
+Kotlin |
 Django |
+Scala |
 JavaScript |
 React |
 Bootstrap

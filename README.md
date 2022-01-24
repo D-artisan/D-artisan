@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Daniel, a Full-Stack Software Developer with specialty in Python/Django.
+My name is Daniel--I am a Software Engineer passionately about using technology to build solutions that positively affects my society, and the lives of many.
 
 <!--
 **D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

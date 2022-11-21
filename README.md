@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My Tech Stack:
 Python |
 Java |
-Springoot |
+Spring Boot |
 Kotlin |
 Django |
 Scala |

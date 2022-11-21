@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Daniel, I am a Software Engineer passionate about using technology to build solutions that positively affect my society, and the lives of many.
+My name is Daniel, I am a Software Engineer passionate about using technology to build solutions that positively affect my world.
 
 <!--
 **D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,5 @@ Django |
 Scala |
 JavaScript |
 React |
+Go |
 Bootstrap

@@ -1,5 +1,10 @@
-Hi there 👋
-My name is Daniel, I am a Software Engineer passionate about using technology to build solutions that positively affect my world.
+Hi there 👋 I'm Daniel
+
+I'm a **Software Engineer** passionate about building impactful solutions through technology. I enjoy working across the stack and love turning ideas into reliable, scalable systems that make a real-world difference.
+
+**Tech Stack:**  
+Python · Java · Spring Boot · Kotlin · Django · Scala · JavaScript · React · Go · Bootstrap
+
 
 <!--
 **D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-My Tech Stack:
-Python |
-Java |
-Spring Boot |
-Kotlin |
-Django |
-Scala |
-JavaScript |
-React |
-Go |
-Bootstrap

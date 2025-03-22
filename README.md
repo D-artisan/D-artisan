@@ -56,9 +56,8 @@ I'm a **Software/AI Engineer** passionate about building impactful solutions thr
 ---
 
 ### 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/danielnb/)  
-- [Email](mailto:daniel.nti.boakye@gmail.com)  
+- <a href="https://www.linkedin.com/in/danielnb/" target="_blank">LinkedIn</a>  
+- <a href="mailto:daniel.nti.boakye@gmail.com" target="_blank">Email</a>
 
 <!--
 **D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

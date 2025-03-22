@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Daniel
+# Hi there 👋 I'm Daniel
 
-I'm a **Software Engineer** passionate about building impactful solutions through technology. I enjoy working across the stack and love turning ideas into reliable, scalable systems that make a real-world difference.
+I'm a **Software/AI Engineer** passionate about building impactful solutions through technology. I enjoy working across the stack and love turning ideas into reliable, scalable systems that make a real-world difference.
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -51,7 +53,12 @@ I'm a **Software Engineer** passionate about building impactful solutions throug
 ![Apache Camel](https://img.shields.io/badge/Apache_Camel-A9252C?style=for-the-badge)
 ![Quartz](https://img.shields.io/badge/Quartz_Scheduler-FF5555?style=for-the-badge)
 
+---
 
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/danielnb/)  
+- [Email](mailto:daniel.nti.boakye@gmail.com)  
 
 <!--
 **D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

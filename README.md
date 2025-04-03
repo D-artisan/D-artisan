@@ -6,6 +6,15 @@ I'm a **Software/AI Engineer** passionate about building impactful solutions thr
 
 ### 🛠️ Tech Stack
 
+**AI & ML Stack**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama Embeddings](https://img.shields.io/badge/Ollama_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyPDFLoader](https://img.shields.io/badge/PyPDFLoader-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white)
+![TextLoader](https://img.shields.io/badge/TextLoader-888888?style=for-the-badge&logo=readthedocs&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-007ACC?style=for-the-badge&logo=microphone&logoColor=white)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-B5651D?style=for-the-badge&logo=soundcloud&logoColor=white)
+
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

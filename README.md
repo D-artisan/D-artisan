@@ -1,86 +1,116 @@
-# Hi there 👋 I'm Daniel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-dark.svg" width="100%" alt="Daniel Nti-Boakye. Software and AI Engineer. Ideas into systems. Systems people trust.">
+</picture>
 
-I'm a **Software/AI Engineer** passionate about building impactful solutions through technology. I enjoy working across the stack and love turning ideas into reliable, scalable systems that make a real-world difference.
+# Hi, I'm Daniel.
 
----
+**Software & AI Engineer · Cloud infrastructure · Distributed systems**
 
-### 🛠️ Tech Stack
+I build software, automate the infrastructure behind it, and work through the failures that sit between the two. My background spans financial systems, Kubernetes platforms and practical AI applications.
 
-**AI & ML Stack**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=vector&logoColor=white)
-![Ollama Embeddings](https://img.shields.io/badge/Ollama_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyPDFLoader](https://img.shields.io/badge/PyPDFLoader-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white)
-![TextLoader](https://img.shields.io/badge/TextLoader-888888?style=for-the-badge&logo=readthedocs&logoColor=white)
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-007ACC?style=for-the-badge&logo=microphone&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-B5651D?style=for-the-badge&logo=soundcloud&logoColor=white)
+**[Explore my portfolio ↗](https://portfolio.danielboakye.info/)** &nbsp; / &nbsp; **[Connect on LinkedIn ↗](https://www.linkedin.com/in/danielnb/)** &nbsp; / &nbsp; **[Email me ↗](mailto:daniel.nti.boakye@gmail.com)**
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JOOQ](https://img.shields.io/badge/JOOQ-4169E1?style=for-the-badge)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Databases & Storage**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Monitoring & Logging**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Zookeeper](https://img.shields.io/badge/ZooKeeper-FF6F00?style=for-the-badge)
-![Sockeye](https://img.shields.io/badge/Sockeye-0099CC?style=for-the-badge)
-
-**Tools & Environments**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Camel](https://img.shields.io/badge/Apache_Camel-A9252C?style=for-the-badge)
-![Quartz](https://img.shields.io/badge/Quartz_Scheduler-FF5555?style=for-the-badge)
+<sub>Open to Software, AI Platform, Platform Engineering and SRE opportunities.</sub>
 
 ---
 
-### 📫 Let's Connect
-- <a href="https://www.linkedin.com/in/danielnb/" target="_blank">LinkedIn</a>  
-- <a href="mailto:daniel.nti.boakye@gmail.com" target="_blank">Email</a>
+### Experience, at a glance
 
-<!--
-**D-artisan/D-artisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Financial systems:** contingent software engineering at Morgan Stanley through Turntabl, supporting the data access layer of a risk calculation engine.
+- **Cloud & reliability:** Kubernetes upgrade automation, deployment tooling, monitoring and distributed execution across Azure and AWS environments.
+- **AI & business:** MSc Artificial Intelligence with Business Strategy, Aston University. I care about where AI is useful and what it takes to run it reliably.
+- **Teaching & leadership:** mentoring engineers and teaching Python, Java and AI fundamentals. Making a difficult system understandable is part of the work.
 
-Here are some ideas to get you started:
+### Explore my work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Three ways into the problems I enjoy solving. These are public projects and learning resources you can inspect.
+
+#### 01 / Applied AI
+
+**[Personal AI Chatbot ↗](https://github.com/D-artisan/ai-chatbot)**  
+A privacy-focused chatbot with document Q&A, local or remote model inference, persistent chat history and optional voice interaction.
+
+`Python` `LangChain` `Ollama` `FAISS` `Streamlit`
+
+<details>
+<summary><strong>Explore the engineering</strong></summary>
+
+- PDF and text retrieval with vector embeddings.
+- Separate configuration for chat and embedding models.
+- Both a Streamlit interface and a terminal workflow.
+- Graceful handling when optional audio dependencies are unavailable.
+
+[Read the setup and explore the code →](https://github.com/D-artisan/ai-chatbot#readme)
+
+</details>
+
+#### 02 / Distributed systems & reliability
+
+**[HotelStream Reliability Lab ↗](https://github.com/D-artisan/trivago-sre-lab)**  
+A hands-on Kubernetes and Kafka learning lab for exploring event processing, consumer lag, autoscaling and recovery from failure.
+
+`Kubernetes` `Kafka` `KEDA` `Redis` `Python`
+
+<details>
+<summary><strong>Explore the failure scenarios</strong></summary>
+
+- Consumer groups, partitions and the limits of parallelism.
+- Scaling consumers with KEDA based on Kafka lag.
+- Broker and consumer failures, rebalancing and event replay.
+- A Redis read model fed by hotel-price events.
+
+This is an independent learning lab inspired by trivago's published engineering work.
+
+[Explore the lab and learning checkpoints →](https://github.com/D-artisan/trivago-sre-lab#readme)
+
+</details>
+
+#### 03 / Observability & developer education
+
+**[Observability Platform Guide ↗](https://github.com/D-artisan/observability-platform)**  
+A practical guide to instrumenting Python microservices and connecting their metrics, logs and traces through an OpenTelemetry Collector.
+
+`OpenTelemetry` `Grafana` `Loki` `Tempo` `Mimir`
+
+<details>
+<summary><strong>Explore the architecture</strong></summary>
+
+- A payment-transfer example with pricing and notification services.
+- Centralised telemetry collection and routing.
+- Dashboards, alerts and the relationships between signals.
+- Docker and local Kubernetes deployment walkthroughs.
+
+[Read the architecture and implementation guide →](https://github.com/D-artisan/observability-platform#readme)
+
+</details>
+
+---
+
+### Tools I work with
+
+| Area | Core tools |
+| :--- | :--- |
+| Software | Python, Java, Scala, SQL, Spring Boot, Django |
+| AI applications | LangChain, Ollama, FAISS, scikit-learn |
+| Cloud & delivery | AWS, Azure, Kubernetes, Docker, Terraform, Helm |
+| Data & operations | PostgreSQL, MongoDB, Redis, Kafka, Grafana, Splunk |
+
+<details>
+<summary><strong>More of my toolkit</strong></summary>
+
+**Languages & interfaces:** JavaScript, Kotlin, Go, React, Angular, Flutter.  
+**Automation & delivery:** Bash, Linux, Ansible, Jenkins, CircleCI, CloudFormation.  
+**Data & integration:** Prometheus, ZooKeeper, Apache Camel, jOOQ, Quartz.  
+**AI & analysis:** NumPy, pandas, Jupyter, document retrieval and speech interfaces.
+
+</details>
+
+### Let's build something useful.
+
+If your team needs someone who can connect application code, cloud infrastructure and AI, I'd like to hear what you're working on.
+
+**[Start a conversation →](mailto:daniel.nti.boakye@gmail.com)** &nbsp; · &nbsp; [See more of my work](https://portfolio.danielboakye.info/)
+
+<sub>Daniel Nti-Boakye · Diary of a problem solver.</sub>
